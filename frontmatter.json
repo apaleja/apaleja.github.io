@@ -1,0 +1,33 @@
+{
+  "$schema": "https://frontmatter.codes/frontmatter.schema.json",
+  "frontMatter.taxonomy.contentTypes": [
+    {
+      "name": "default",
+      "pageBundle": false,
+      "previewPath": null,
+      "fields": [
+        {
+          "title": "title",
+          "name": "title",
+          "type": "string"
+        },
+        {
+          "title": "date",
+          "name": "date",
+          "type": "fields",
+          "fields": []
+        },
+        {
+          "title": "author",
+          "name": "author",
+          "type": "string"
+        },
+        {
+          "title": "description",
+          "name": "description",
+          "type": "string"
+        }
+      ]
+    }
+  ]
+}
